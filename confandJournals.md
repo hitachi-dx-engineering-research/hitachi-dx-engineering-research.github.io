@@ -1,4 +1,5 @@
-# ソフトウェア工学関連会議・論文誌リスト
+# Software Engineering Conferences and Journals
+ソフトウェア工学関連会議・論文誌リスト
 
 ## 国際会議
 
